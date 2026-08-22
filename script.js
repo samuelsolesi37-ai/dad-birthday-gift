@@ -166,7 +166,7 @@ function fireConfetti() {
 const memories = [
 
     {
-        image: "./images/dad1.jpg",
+        image: "./dad1.jpg",
 
         caption:
             "The man behind so many beautiful memories."
@@ -174,7 +174,7 @@ const memories = [
 
 
     {
-        image: "./images/dad2.jpg",
+        image: "./dad2.jpg",
 
         caption:
             "A father whose presence means everything."
@@ -182,7 +182,7 @@ const memories = [
 
 
     {
-        image: "./images/dad3.jpg",
+        image: "./dad3.jpg",
 
         caption:
             "Celebrating the moments that matter."
@@ -190,7 +190,7 @@ const memories = [
 
 
     {
-        image: "./images/dad4.jpg",
+        image: "./dad4.jpg",
 
         caption:
             "More memories. More reasons to be grateful."
@@ -198,7 +198,7 @@ const memories = [
 
 
     {
-        image: "./images/dad5.jpg",
+        image: "./dad5.jpg",
 
         caption:
             "And many more beautiful memories to come."
